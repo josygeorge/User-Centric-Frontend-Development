@@ -1,6 +1,6 @@
 # User Centric Frontend Development
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT INTRO -->
 <br />
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/The_Monkees">
@@ -10,7 +10,7 @@
   <h3 align="center">First MileStone Project - 2021 FSSD Jan - Aug Batch</h3>
 
   <p align="center">
-    A bootstrap project, based on the subject - The Monkees - 1960's Rock band!
+    A bootstrap project, based on the subject and theme - The Monkees - 1960's Rock band!
     <br />
     <br />
     <a href="https://google.com">View Demo</a>
@@ -70,8 +70,13 @@ This section should list any major frameworks that you built your project using.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+The project has the following sections.
+1. Header
+* Consists of a logo
+* Menu
+2. About the team
+The team is being introduced with the images.
+3. Back Catalogue
 
 ### Prerequisites
 
