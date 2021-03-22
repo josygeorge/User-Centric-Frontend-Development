@@ -33,7 +33,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">GIT Installation</a></li>
+        <li><a href="#git-installation">GIT Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -127,19 +127,19 @@ The project has the following sections.
     ```sh
    git add .
    ```
-4. Commit `config.js`
+5. Commit `config.js`
    ```sh
    git commit -m "text_message"
    ```
-5. Create a branch in the local
+6. Create a branch in the local
     ```sh
    git branch -M main
    ```
-6. Remote add the repo
+7. Remote add the repo
    ```sh
    git remote add origin https://github.com/your_username_/Project-Name.git
    ```
-7. Push the files
+8. Push the files
     ```sh
     git push -u origin main
     ```
