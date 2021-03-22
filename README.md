@@ -73,11 +73,11 @@ This section should list any major frameworks that you built your project using.
 The project has the following file structure.
 * index.html
 * css
-* * style.css
+    * style.css
 * assets
-* * images
-* * audios
-* * videos
+    * images
+    * audios
+    * videos
 
 #### Index.html - Sections 
 
