@@ -61,7 +61,7 @@ I want to create a README file for the project to showcase the details in an inf
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
+* [Bootstrap 4.6](https://getbootstrap.com)
 * [CSS3](https://www.w3schools.com/css/)
 * [HTML5](https://www.w3schools.com/html/)
 
@@ -70,13 +70,28 @@ This section should list any major frameworks that you built your project using.
 <!-- GETTING STARTED -->
 ## Getting Started
 
+The project has the following file structure.
+* index.html
+* css
+* * style.css
+* assets
+* * images
+* * audios
+* * videos
+
+#### Index.html - Sections 
+
 The project has the following sections.
 1. Header
-* Consists of a logo
+Consists of 
+* a logo
 * Menu
 2. About the team
 The team is being introduced with the images.
 3. Back Catalogue
+This section has the classical performances as,
+* Videos
+* Audios
 
 ### Prerequisites
 
