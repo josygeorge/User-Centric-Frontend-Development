@@ -1,6 +1,6 @@
 # User Centric Frontend Development
 <!-- PROJECT URL -->
-[![Project Demo](https://google.com)
+[![Project Demo](https://google.com)]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
