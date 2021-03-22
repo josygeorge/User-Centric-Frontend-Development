@@ -13,6 +13,10 @@
 a{
     text-decoration: none!important;
 }
+#backCatalogueAudios audio {
+    width: 100%;
+    background-color: rgb(60, 60, 60);
+}
 .social a {
     font-size: 2.5em;
     padding: 3rem;
@@ -32,18 +36,4 @@ a{
 .social .fa-youtube {
     color: rgb(187,0,0);
 }
-/* footer .footer-col-rt {
-    float: right;
- }
- footer .footer-col-lf {
-    float: left;
- }
 
-@media only screen and (max-width: 570px) {
-    footer .footer-col-rt {
-        float: none;
-     }
-     footer .footer-col-lf {
-        float: none;
-     }
-  } */
