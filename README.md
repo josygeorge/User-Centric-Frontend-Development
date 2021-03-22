@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Project URL]](https://youtube.com)
+[Project URL](https://youtube.com)
 
 * The first milestone project in the Full Stack Software Development Graduate Programme with Canadian Business College, for the 2021 January to August batch. 
 
