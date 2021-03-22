@@ -13,7 +13,7 @@
     A bootstrap project, based on the subject and theme - The Monkees - 1960's Rock band!
     <br />
     <br />
-    <a href="https://google.com">View Demo</a>
+    <a href="https://josygeorge.github.io/User-Centric-Frontend-Development/"><h1>View Demo<h1></a>
   </p>
 </p>
 
@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Project URL](https://youtube.com)
+[Live Project URL](https://josygeorge.github.io/User-Centric-Frontend-Development/)
 
 * The first milestone project in the Full Stack Software Development Graduate Programme with Canadian Business College, for the 2021 January to August batch. 
 
