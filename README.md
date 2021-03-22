@@ -13,7 +13,9 @@
     A bootstrap project, based on the subject and theme - The Monkees - 1960's Rock band!
     <br />
     <br />
-    <a href="https://josygeorge.github.io/User-Centric-Frontend-Development/"><h1>View Demo<h1></a>
+    <h3>
+        <a href="https://josygeorge.github.io/User-Centric-Frontend-Development/">View Demo</a>
+    </h3>
   </p>
 </p>
 
