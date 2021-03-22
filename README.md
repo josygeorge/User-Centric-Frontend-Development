@@ -64,7 +64,7 @@ This section should list any major frameworks that you built your project using.
 * [Bootstrap 4.6](https://getbootstrap.com)
 * [CSS3](https://www.w3schools.com/css/)
 * [HTML5](https://www.w3schools.com/html/)
-
+* [FontAwesome](https://www.bootstrapcdn.com/fontawesome/)
 
 
 <!-- GETTING STARTED -->
@@ -83,56 +83,83 @@ The project has the following file structure.
 
 The project has the following sections.
 1. Header
-Consists of 
-* a logo
-* Menu
+* Consists of 
+    * A logo
+    * Menu
 2. About the team
-The team is being introduced with the images.
+* The team is being introduced with the text and images.
 3. Back Catalogue
-This section has the classical performances as,
-* Videos
-* Audios
+* This section has the classical performances as,
+    * Videos
+    * Audios
+4. Occasions of Performing
+    * This section showcases the occasions in which the band performs
+        * Weddings
+        * Christmas Parties
+        * Concerts
+    * Also, it gives the user to book for their programme as per the choice.
+5. A section to connect with the band in the social media like
+    * facebook
+    * Instagram
+    * etc.
+6. Footer
+
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* A good knowledge in the following is required.
+    * HTML
+    * CSS
+    * Bootstrap
+    * GIT basic operations
 
-### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+### GIT Installation
+
+1. Get a GIT account at [https://github.com](https://github.com)
+2. Create a repository
+
+3. GIT init in the local machine
+    ```sh
+    git init
+   ```
+4. Add the files to GIT local machine
+    ```sh
+   git add .
+   ```
+4. Commit `config.js`
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git commit -m "text_message"
    ```
-3. Install NPM packages
+5. Create a branch in the local
+    ```sh
+   git branch -M main
+   ```
+6. Remote add the repo
    ```sh
-   npm install
+   git remote add origin https://github.com/your_username_/Project-Name.git
    ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
+7. Push the files
+    ```sh
+    git push -u origin main
+    ```
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Normal GIT Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
+1. Add the files
+    ```sh
+    git add <filename>
+    ```
+2. Commit the change
+    ```sh
+    git commit -m "message"
+    ```
+3. Push the changes to the repo
+    ```sh
+    git push
+    ```
 
 
 <!-- CONTRIBUTING -->
@@ -158,42 +185,17 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Josy George - [@github](https://github.com/josygeorge/)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [User-Centric-Frontend-Development](https://github.com/josygeorge/User-Centric-Frontend-Development)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
+
 * [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
 
 
 
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
