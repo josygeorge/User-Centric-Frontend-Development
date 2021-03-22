@@ -1,7 +1,4 @@
 /*Custom CSS*/
-.menu-bar .navbar-brand img {
-    width: 40%;
-}
 .navbar-nav {
     text-align: right;
 }
@@ -10,36 +7,28 @@
     outline: none;
     border: none;
 }
-.banner {
-    height: 105vh;
-    background-image: linear-gradient(
-        rgba(0,0,0,0.7),rgba(0,0,0,0.7)),
-        url(../assets/images/monkees.jpg);
-    background-size: cover;
-    background-position: center;
-    color: rgba(255, 255, 255, 0.85);
-}
-.banner h1 {
-    padding-top: 210px;
-    letter-spacing: 5px;
-    font-size: 2.75em;
-    font-weight: 600;
-    text-shadow: 0 0 30px rgba(0,0,0,0.5);
-}
-.banner p {
-    letter-spacing: 5px;
-    font-size: 1.2em;
-}
-#aboutUs {
-    padding-top: 40px;
-    padding-bottom: 20px;
-}
 #aboutUs p {
     text-align: justify;
 }
-#aboutUs .col-md-6{
-    padding-top: 30px;
+a{
+    text-decoration: none!important;
 }
-#aboutUs .col-md-6 h6{
-    padding-top: 20px;
+.social a {
+    font-size: 2.5em;
+    padding: 3rem;
+}
+.social .fa-facebook {
+    color: rgb(59,89,152);
+}
+.social .fa-twitter {
+    color: rgb(0,172,237);
+}
+.social .fa-google-plus {
+    color: rgb(221,75,57);
+}
+.social .fa-instagram {
+    color: rgb(138,58,185);
+}
+.social .fa-youtube {
+    color: rgb(187,0,0);
 }
