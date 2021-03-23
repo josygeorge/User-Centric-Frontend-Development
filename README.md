@@ -159,7 +159,7 @@ The project has the following sections.
     ```
 3. Push the changes to the repo
     ```sh
-    git push
+    git push origin main
     ```
 
 
