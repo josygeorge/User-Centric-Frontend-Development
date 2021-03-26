@@ -1,4 +1,7 @@
 /*Custom CSS*/
+.menu-bar {
+    padding-right: 0.5rem;
+}
 .navbar-nav {
     text-align: right;
 }
