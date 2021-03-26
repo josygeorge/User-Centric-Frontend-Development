@@ -36,3 +36,9 @@ a{
     color: rgb(187,0,0);
 }
 
+@media only screen and (min-width: 576px) {
+    .custom-display-bar {
+      display: none;
+    }
+  }
+
